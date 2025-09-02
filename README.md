@@ -1,10 +1,10 @@
 # Bachelorarbeit - Räumliche Analyse der Hochwassergefährdung in Unterfranken: Bewertung der Risiken für Bevölkerung und Gebäude
 
-#Dieses Repository enthält die Python Skripte und die Projektstruktur meiner Bachelorarbeit.
+Dieses Repository enthält die Python Skripte und die Projektstruktur meiner Bachelorarbeit.
 
-#Hinweis: Die Input-Daten (`data/`) sind aus Datenschutzgründen nicht im Repository enthalten und werden separat bereitgestellt.
+Hinweis: Die Input-Daten (`data/`) sind aus Datenschutzgründen nicht im Repository enthalten und werden separat bereitgestellt.
 
-#Projektstruktur:  
+Projektstruktur:  
 data/ (nicht im Repository enthalten)  
 ├── gml/  
 ├── csv/  
