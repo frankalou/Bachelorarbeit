@@ -39,8 +39,8 @@ scripts/
 ├── weitere_scripts/  
 │ ├── Anzahl_ueber_65.py  
 │ ├── Gemeindeflaechen_Hochwasserrisiko.py  
-│ ├── Vergleich_Gebaeudefunktion.py  
-│ └── Top20_Gemeinden_Risiko.py  
+│ ├── Top20_Gemeinden_Risiko.py 
+│ └── Vergleich_Gebaeudefunktion.py  
 ├── main_gebaeudedaten.py  
 └── main_unterfranken_filter.py  
 
