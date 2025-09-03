@@ -1,4 +1,4 @@
-# Dieser Code wurde einschließlich bis Punkt 6 von John Freisen bereitgestellt
+# Dieser Code wurde einschließlich bis Zeile 76 von John Freisen bereitgestellt
 
 import os
 import pandas as pd
@@ -115,3 +115,4 @@ final.to_file(output_shp)
 
 
 print(f"Shapefile gespeichert: {output_shp}")
+
