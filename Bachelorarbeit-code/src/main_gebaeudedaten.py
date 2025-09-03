@@ -1,3 +1,5 @@
+# Dieser Code wurde einschließlich bis Punkt 6 von John Freisen bereitgestellt
+
 import os
 import pandas as pd
 import numpy as np
@@ -110,5 +112,6 @@ final = joined[[
 ]].copy()
 final = final.set_crs("EPSG:25832")
 final.to_file(output_shp)
+
 
 print(f"Shapefile gespeichert: {output_shp}")
