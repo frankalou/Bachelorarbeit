@@ -17,7 +17,8 @@ data/ (nicht im Repository enthalten)
 │ ├── Unterfranken.shp  
 │ ├── buildings_unterfranken.shp  
 │ ├── buildings_unterfranken_clipped.shp  
-│ └── flaechen_gemeinden_risiko_unterfranken.shp  
+│ ├── flaechen_gemeinden_risiko_unterfranken.shp  
+│ └── top20_gemeinden_unterfranken_risiko.shp  
 └── raster/  
 └── HSM_WoE_C.tif  
 
@@ -38,7 +39,8 @@ scripts/
 ├── weitere_scripts/  
 │ ├── Anzahl_ueber_65.py  
 │ ├── Gemeindeflaechen_Hochwasserrisiko.py  
-│ └── Vergleich_Gebaeudefunktion.py  
+│ ├── Vergleich_Gebaeudefunktion.py  
+│ └── Top20_Gemeinden_Risiko.py  
 ├── main_gebaeudedaten.py  
 └── main_unterfranken_filter.py  
 
